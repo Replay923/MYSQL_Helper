@@ -1,0 +1,6 @@
+D:\MGUWP\ArrangeNews\ArrangeServer\Utils\bin\Debug\netcoreapp2.0\Utils.deps.json
+D:\MGUWP\ArrangeNews\ArrangeServer\Utils\bin\Debug\netcoreapp2.0\Utils.dll
+D:\MGUWP\ArrangeNews\ArrangeServer\Utils\obj\Debug\netcoreapp2.0\Utils.csprojAssemblyReference.cache
+D:\MGUWP\ArrangeNews\ArrangeServer\Utils\obj\Debug\netcoreapp2.0\Utils.csproj.CoreCompileInputs.cache
+D:\MGUWP\ArrangeNews\ArrangeServer\Utils\obj\Debug\netcoreapp2.0\Utils.AssemblyInfoInputs.cache
+D:\MGUWP\ArrangeNews\ArrangeServer\Utils\obj\Debug\netcoreapp2.0\Utils.AssemblyInfo.cs

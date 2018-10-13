@@ -1,0 +1,10 @@
+D:\MGUWP\CategoryNews\CategoryServer\Utils\bin\Release\netcoreapp2.1\Utils.deps.json
+D:\MGUWP\CategoryNews\CategoryServer\Utils\bin\Release\netcoreapp2.1\Utils.runtimeconfig.json
+D:\MGUWP\CategoryNews\CategoryServer\Utils\bin\Release\netcoreapp2.1\Utils.runtimeconfig.dev.json
+D:\MGUWP\CategoryNews\CategoryServer\Utils\bin\Release\netcoreapp2.1\Utils.dll
+D:\MGUWP\CategoryNews\CategoryServer\Utils\bin\Release\netcoreapp2.1\Utils.pdb
+D:\MGUWP\CategoryNews\CategoryServer\Utils\obj\Release\netcoreapp2.1\Utils.csproj.CoreCompileInputs.cache
+D:\MGUWP\CategoryNews\CategoryServer\Utils\obj\Release\netcoreapp2.1\Utils.AssemblyInfoInputs.cache
+D:\MGUWP\CategoryNews\CategoryServer\Utils\obj\Release\netcoreapp2.1\Utils.AssemblyInfo.cs
+D:\MGUWP\CategoryNews\CategoryServer\Utils\obj\Release\netcoreapp2.1\Utils.dll
+D:\MGUWP\CategoryNews\CategoryServer\Utils\obj\Release\netcoreapp2.1\Utils.pdb

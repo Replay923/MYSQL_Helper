@@ -1,0 +1,7 @@
+{
+  "Data": {
+    "ConnectionString": "server=127.0.0.1;user id=root;password='123456';port=3306;database=categorydata;",
+    "ClearData": "false",
+    "WebPort": "http://*:5000|http://*:5001"
+  }
+}
